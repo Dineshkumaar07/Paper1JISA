@@ -5,5 +5,8 @@ import (
 )
 
 func main() {
+
 	algorithms.Elgamal()
+	algorithms.Vrf()
+
 }
